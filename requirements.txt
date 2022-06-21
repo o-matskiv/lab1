@@ -20,7 +20,7 @@ googlemaps==3.0.2
 idna==2.7
 Jinja2==2.10
 MarkupSafe==1.1.0
-numpy==1.16.1
+numpy==1.22.0
 pandas==0.24.1
 protobuf==3.6.1
 pyasn1==0.4.4
